@@ -6,6 +6,7 @@
 - 😄 Pronouns: he/him/they/them
 - ⚡ Fun fact: I am a trans man who has an identical twin.
 -😁 Likes: reading, math, and learning
+
 joyhasjoy/joyhasjoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
